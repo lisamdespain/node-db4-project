@@ -9,13 +9,9 @@ exports.seed = async function(knex) {
     {step_id: 2, ingredient_id: '1', quantity: '2'}, 
     {step_id: 2, ingredient_id: '2', quantity: '1/4 cup'},
 
-    {step_id: 1, ingredient_id: '4', quantity: '12 oz'},
-    {step_id: 2, ingredient_id: '6', quantity: '1 pound'},
-    {step_id: 3, ingredient_id: '5', quantity: '28 oz jar'}
+    {step_id: 5, ingredient_id: '4', quantity: '12 oz'},
+    {step_id: 6, ingredient_id: '6', quantity: '1 pound'},
+    {step_id: 7, ingredient_id: '5', quantity: '28 oz jar'}
   ]);
 };
-
-
-
-
 
